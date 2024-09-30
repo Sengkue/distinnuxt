@@ -1,0 +1,1 @@
+import{_ as n,c as t,d as s,a,o}from"./fmsncFvJ.js";const r={};function c(i,e){return o(),t("div",null,e[0]||(e[0]=[s(" index page "),a("img",{src:"http://sengkue.github.io/images/png/01.png"},null,-1)]))}const l=n(r,[["render",c]]);export{l as default};
